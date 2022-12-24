@@ -3,5 +3,7 @@ In terminal: git remote add origin
 https://github.com/username/test_repo.git
 2. Pushing local git to remote repository
 In terminal: git push origin master/main
-3. Clone remote repository
+3. Cloning an existing repository to selected folder
 In terminal: git clone https://github.com/username/test_repo.git
+4. Create a different folder
+In terminal: mkdir differentFolder && cd differentFolder
