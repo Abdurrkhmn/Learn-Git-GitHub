@@ -11,6 +11,8 @@ In terminal: git add .
 5. Committing the staging file
 In terminal: git commit -m "Your Commit Message,
 determines your changes"
+6. Displaying Differences (melihat pembaruan)
+In terminal: git diff filename/file.txt
 
-untuk memperbarui
+basic remote example
 the first time STAGING (git add . /file),  second time STATUS (git status),  then commit and push
