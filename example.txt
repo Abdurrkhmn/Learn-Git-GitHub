@@ -1,0 +1,7 @@
+exercise
+
+1. basic remote  (mengirim)
+the first time STAGING (git add . /file),  second time STATUS (git status),  then commit and push
+
+2. basic forget (ketika ingin kembali ke working directly)
+the first (git show HEAD), (git diff), (git checkout HEAD file.txt) 

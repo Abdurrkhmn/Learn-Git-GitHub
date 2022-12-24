@@ -15,6 +15,3 @@ determines your changes"
 In terminal: git diff filename/file.txt
 7. Showing Git Commit Logs
 In terminal: git log
-
-basic remote example mengirim 
-the first time STAGING (git add . /file),  second time STATUS (git status),  then commit and push
