@@ -1,0 +1,7 @@
+1. Add remote repository url to local git
+In terminal: git remote add origin
+https://github.com/username/test_repo.git
+2. Pushing local git to remote repository
+In terminal: git push origin master/main
+3. Clone remote repository
+In terminal: git clone https://github.com/username/test_repo.git
