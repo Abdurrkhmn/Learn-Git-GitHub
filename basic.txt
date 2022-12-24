@@ -1,6 +1,6 @@
 1. Create new folder
 In terminal: mkdir
-2. Initiate git Inside folder learnGit 
+2. Initializing a Git Repository 
 In terminal: git init
 3. Create random file
 In terminal: touch index.js
@@ -13,6 +13,8 @@ In terminal: git commit -m "Your Commit Message,
 determines your changes"
 6. Displaying Differences (melihat pembaruan)
 In terminal: git diff filename/file.txt
+7. Showing Git Commit Logs
+In terminal: git log
 
-basic remote example
+basic remote example mengirim 
 the first time STAGING (git add . /file),  second time STATUS (git status),  then commit and push
