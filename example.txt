@@ -5,3 +5,6 @@ the first time STAGING (git add . /file),  second time STATUS (git status),  the
 
 2. basic forget (ketika ingin kembali ke working directly)
 the first (git show HEAD), (git diff), (git checkout HEAD file.txt) 
+
+3. basic git add (sebagai contoh ingin mengubah)
+the first (git add ./filename.txt), (git commit -m "bebas")
